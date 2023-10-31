@@ -16,4 +16,4 @@
 
 Puedes ver el vídeo de funcionamiento de la app en el siguiente enlace:
 
-[![Vídeo Explicativo]([link](https://www.youtube.com/watch?v=Z3b6RJQ7eKo)https://www.youtube.com/watch?v=Z3b6RJQ7eKo)
+[![Vídeo Explicativo]([link](https://www.youtube.com/watch?v=Z3b6RJQ7eKo)
