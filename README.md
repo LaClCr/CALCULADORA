@@ -1,5 +1,7 @@
 # CALCULADORA REACT NATIVE
 
+![Captura de Pantalla de la Aplicación](https://github.com/LaClCr/CALCULADORA/blob/938fe03af17f8bb0d172836c765a2f3820586ebd/assets/CAPTURACALC.png)
+
 ## Descripción
 
 **Calculadora React Native** es una aplicación móvil desarrollada con JavaScript y React Native que proporciona una herramienta versátil para realizar cálculos matemáticos en dispositivos móviles. Con una interfaz intuitiva y elegante, esta calculadora ofrece una amplia gama de funciones, desde operaciones básicas hasta cálculos matemáticos avanzados. 
