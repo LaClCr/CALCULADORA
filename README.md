@@ -1,11 +1,20 @@
-# Sample Snack app
+# CALCULADORA REACT NATIVE
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Descripción
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+**Calculadora React Native** es una aplicación móvil desarrollada con JavaScript y React Native que proporciona una herramienta versátil para realizar cálculos matemáticos en dispositivos móviles. Con una interfaz intuitiva y elegante, esta calculadora ofrece una amplia gama de funciones, desde operaciones básicas hasta cálculos matemáticos avanzados. 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Características Destacadas
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- Realiza operaciones matemáticas básicas, incluyendo suma, resta, multiplicación y división.
+- Soporte para funciones avanzadas como raíz cuadrada, logaritmo natural, logaritmo base 10, factorial y funciones trigonométricas (seno, coseno y tangente).
+- Historial de cálculos para un seguimiento y corrección eficientes.
+- Diseño responsive que se adapta a diferentes tamaños de pantalla y orientaciones.
+- Desarrollado en React Native, lo que garantiza un rendimiento óptimo en dispositivos móviles.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Vídeo 
+
+Puedes ver el vídeo de funcionamiento de la app en el siguiente enlace:
+
+[![Vídeo Explicativo](https://www.youtube.com/watch?v=Z3b6RJQ7eKo)](https://www.youtube.com/watch?v=Z3b6RJQ7eKo)
+
