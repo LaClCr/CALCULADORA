@@ -1,6 +1,7 @@
 # CALCULADORA REACT NATIVE
 
 ![Captura de Pantalla de la Aplicación](https://github.com/LaClCr/CALCULADORA/blob/938fe03af17f8bb0d172836c765a2f3820586ebd/assets/CAPTURACALC.png)
+<img src="https://github.com/LaClCr/CALCULADORA/blob/938fe03af17f8bb0d172836c765a2f3820586ebd/assets/CAPTURACALC.png" width="300" height="600">
 
 ## Descripción
 
